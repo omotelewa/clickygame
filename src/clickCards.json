@@ -436,11 +436,5 @@
     "name": "Richter Belmont",
     "image": "./images/richter.jpg",
     "clicked": false
-  },
-  {
-    "id": 74,
-    "name": "Ken",
-    "image": "./images/ken.jpg",
-    "clicked": false
   }
 ]
